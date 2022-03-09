@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/legal234website/static/css/main.5cacff43.css",
-    "main.js": "/legal234website/static/js/main.ef161751.js",
+    "main.js": "/legal234website/static/js/main.14325a64.js",
     "static/js/787.d40e9c21.chunk.js": "/legal234website/static/js/787.d40e9c21.chunk.js",
     "static/media/legal-04.jpg": "/legal234website/static/media/legal-04.266f8a0b266848bcaea1.jpg",
     "static/media/legal-02.jpg": "/legal234website/static/media/legal-02.4b8e307e230acf0b93db.jpg",
@@ -9,11 +9,11 @@
     "static/media/legal-01.jpg": "/legal234website/static/media/legal-01.c7635ce8f6d6c9a1d3ef.jpg",
     "index.html": "/legal234website/index.html",
     "main.5cacff43.css.map": "/legal234website/static/css/main.5cacff43.css.map",
-    "main.ef161751.js.map": "/legal234website/static/js/main.ef161751.js.map",
+    "main.14325a64.js.map": "/legal234website/static/js/main.14325a64.js.map",
     "787.d40e9c21.chunk.js.map": "/legal234website/static/js/787.d40e9c21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5cacff43.css",
-    "static/js/main.ef161751.js"
+    "static/js/main.14325a64.js"
   ]
 }

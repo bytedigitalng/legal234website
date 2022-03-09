@@ -1,0 +1,38 @@
+/* background image class */
+.legal-bg-1{
+  background:linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.8) ),
+                      url('../public/images/legal-01.jpg') no-repeat center; background-size: cover;
+}
+
+.legal-bg-2{
+  background:linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.8) ),
+                      url('../public/images/legal-03.jpg') no-repeat center; background-size: cover;
+}
+
+.legal-bg-3{
+  background:linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.8) ),
+                      url('../public/images/legal-04.jpg') no-repeat center; background-size: cover;
+}
+
+.legal-bg-4{
+  background:linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.8) ),
+                      url('../public/images/legal-02.jpg') no-repeat center; background-size: cover;
+}
+
+footer a{
+  color:#2A6877;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+footer a:hover{
+  text-decoration: underline;
+}
+
+.box a{
+  font-size: 36px;
+  font-weight: 600;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+

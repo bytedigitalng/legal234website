@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+
 export default function Footer(){
     return (
         <>
@@ -7,38 +9,30 @@ export default function Footer(){
                         <div className="col-md-6">
                             <ul className="list-inline">
                                 <li className="list-inline-item">
-                                    <a href="#">Home</a>
+                                    <Link to="/">Home</Link>
                                 </li>
                                 <li className="list-inline-item">
-                                    <a href="#">About</a>
+                                <Link to="/about">About</Link>
                                 </li>
                                 <li className="list-inline-item">
-                                    <a href="#">Services</a>
+                                    <Link to="/contact">Contact</Link>
                                 </li>
-                                <li className="list-inline-item">
-                                    <a href="#">Contact</a>
-                                </li>
-                                <li className="list-inline-item">
-                                    <a href="#">Privacy Policy</a>
-                                </li>
-                                <li className="list-inline-item">
-                                    <a href="#">Disclaimer</a>
-                                </li>
+                                
                             </ul>
                         </div>
                         <div className="col-md-6">
                             <ul className="list-inline float-md-end">
                                 <li className="list-inline-item">
-                                    <a href="#"><i className="fa-brands fa-facebook"></i></a>
+                                    <Link to="#"><i className="fa-brands fa-facebook"></i></Link>
                                 </li>
                                 <li className="list-inline-item">
-                                    <a href="#"><i className="fa-brands fa-linkedin"></i></a>
+                                    <Link to="#"><i className="fa-brands fa-linkedin"></i></Link>
                                 </li>
                                 <li className="list-inline-item">
-                                    <a href="#"><i className="fa-brands fa-twitter"></i></a>
+                                    <Link to="#"><i className="fa-brands fa-twitter"></i></Link>
                                 </li>
                                 <li className="list-inline-item">
-                                    <a href="#"><i className="fa-brands fa-instagram"></i></a>
+                                    <Link to="#"><i className="fa-brands fa-instagram"></i></Link>
                                 </li>
                             </ul>
                         </div>

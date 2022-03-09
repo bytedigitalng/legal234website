@@ -5,7 +5,7 @@ export default function Navbar(){
         <>
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
                 <div className="container">
-                <a className="navbar-brand" href="#"><img src="../../public/images/logo.png" /></a>
+                <Link className="navbar-brand" to="#"><img src="../../public/images/logo.png" alt="Legal234Logo" /></Link>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>

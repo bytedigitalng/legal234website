@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/legal234website/static/css/main.0ae7ca97.css",
-    "main.js": "/legal234website/static/js/main.5cbcfa75.js",
+    "main.js": "/legal234website/static/js/main.f0be05d4.js",
     "static/js/787.d40e9c21.chunk.js": "/legal234website/static/js/787.d40e9c21.chunk.js",
     "static/media/pager.jpg": "/legal234website/static/media/pager.d6f996c2f98ca3a23f9b.jpg",
     "static/media/legal-04.jpg": "/legal234website/static/media/legal-04.266f8a0b266848bcaea1.jpg",
@@ -10,11 +10,11 @@
     "static/media/legal-01.jpg": "/legal234website/static/media/legal-01.c7635ce8f6d6c9a1d3ef.jpg",
     "index.html": "/legal234website/index.html",
     "main.0ae7ca97.css.map": "/legal234website/static/css/main.0ae7ca97.css.map",
-    "main.5cbcfa75.js.map": "/legal234website/static/js/main.5cbcfa75.js.map",
+    "main.f0be05d4.js.map": "/legal234website/static/js/main.f0be05d4.js.map",
     "787.d40e9c21.chunk.js.map": "/legal234website/static/js/787.d40e9c21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ae7ca97.css",
-    "static/js/main.5cbcfa75.js"
+    "static/js/main.f0be05d4.js"
   ]
 }

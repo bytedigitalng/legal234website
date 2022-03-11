@@ -3,17 +3,16 @@ import Footer from "../components/Footer";
 import PageHeader from "../components/PageHeader";
 import MoreLinks from "../components/MoreLinks";
 
-export default function MakeAffidavit(){
+export default function WindDownCompany(){
     let content = {
-        'title': 'Make Affidavit',
-        'subtitle': 'Easily get your affidavit done',
+        'title': 'Wind Down Company',
+        'subtitle': 'Make an appointment and meet oour lawyers',
         'class' : 'page-header-img'
     }
 
     return (
         <>
             <Navbar />
-
             <PageHeader data={content} />
 
             <div className="container">

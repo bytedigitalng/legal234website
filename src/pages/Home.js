@@ -50,6 +50,20 @@ function Home(){
                             </div>
                         </div>
                     </div>
+                    <div className="col-md-6 p-5 legal-bg-3">
+                        <div className="row align-items-center p-5">
+                            <div className="col p-5 text-center">
+                                <Link to="start-company">Start Company</Link>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-6 p-5 legal-bg-4">
+                        <div className="row align-items-center p-5">
+                            <div className="col p-5 text-center">
+                                <Link to="wind-down-company">Wind Down Company</Link>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 

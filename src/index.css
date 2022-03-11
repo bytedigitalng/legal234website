@@ -19,6 +19,34 @@
                       url('../public/images/legal-02.jpg') no-repeat center; background-size: cover;
 }
 
+.bg-brandblue{
+  background-color:#2A6877;
+}
+
+.page-header{
+  background-color: #2A6877;
+  color: #FFFFFF;
+}
+
+.page-header-img{
+  background:linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.8) ),
+                      url('../public/images/pager.jpg') no-repeat center; background-size: cover;
+}
+
+a.morelink{
+  border: 1px solid #FFFFFF;
+  padding: 10px 20px;
+  margin: 5px;
+  display: inline-block;
+  text-decoration: none;
+  color: #FFFFFF;
+}
+
+a.morelink:hover{
+  background-color: #FFFFFF;
+  color: #2A6877;
+}
+
 footer a{
   color:#2A6877;
   text-decoration: none;

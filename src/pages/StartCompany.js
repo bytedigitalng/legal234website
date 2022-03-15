@@ -22,8 +22,8 @@ export default function StartCompany(){
                 <div className="row justify-content-center">
                     <div className="col-md-8 p-4">
                         <p>Starting a legal entity (Business, Company, NGO) can be a haze when navigating the legal commitment, we are here to to help you get started with little stress.</p>
-                        <p>With our partner site Ireg Services - <Link to={{ pathname: "https://ireg.com.ng" }} target="_blank">https://ireg.com.ng</Link> you can start and get more than just your legal, but also your technological needs met.</p>
-                        <p>Learn more about Ireg Services on <Link to={{ pathname: "https://ireg.com.ng" }} target="_blank">https://ireg.com.ng</Link></p>
+                        <p>With our partner site Ireg Services - <a href="https://ireg.com.ng" target='_blank' rel="noopener" >https://ireg.com.ng</a> you can start and get more than just your legal, but also your technological needs met.</p>
+                        <p>Learn more about Ireg Services on <a href="https://ireg.com.ng" target='_blank' rel="noopener" >https://ireg.com.ng</a></p>
                         
 
                         <QuickContact />

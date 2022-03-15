@@ -19,6 +19,16 @@
                       url('../public/images/legal-02.jpg') no-repeat center; background-size: cover;
 }
 
+.legal-bg-5{
+  background:linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.8) ),
+                      url('../public/images/legal-05.jpg') no-repeat center; background-size: cover;
+}
+
+.legal-bg-7{
+  background:linear-gradient( rgba(0,0,0,.5), rgba(0,0,0,.8) ),
+                      url('../public/images/legal-07.jpg') no-repeat center; background-size: cover;
+}
+
 .bg-brandblue{
   background-color:#2A6877;
 }
